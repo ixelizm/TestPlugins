@@ -2,7 +2,7 @@
     {
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/TestPlugins",
+        "repositoryUrl": "https://github.com/ixelizm/TestPlugins",
         "fileSize": 8307,
         "status": 1,
         "language": "en",
@@ -15,7 +15,7 @@
         "version": -1,
         "internalName": "ExampleProvider",
         "description": "Lorem ipsum",
-        "url": "https://raw.githubusercontent.com/recloudstream/TestPlugins/builds/ExampleProvider.cs3",
+        "url": "https://raw.githubusercontent.com/ixelizm/TestPlugins/builds/ExampleProvider.cs3",
         "name": "ExampleProvider"
     }
 ]
