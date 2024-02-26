@@ -1,21 +1,21 @@
 [
-    {
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
+        {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ixelizm/TestPlugins",
-        "fileSize": 8307,
+        "fileSize": 24027,
         "status": 1,
-        "language": "en",
+        "language": "tr",
         "authors": [
-            "Cloudburst"
+            "ixelizm"
         ],
         "tvTypes": [
-            "NSFW"
+            "Movie"
         ],
-        "version": -1,
-        "internalName": "ExampleProvider",
-        "description": "Lorem ipsum",
-        "url": "https://raw.githubusercontent.com/ixelizm/TestPlugins/builds/ExampleProvider.cs3",
-        "name": "ExampleProvider"
+        "version": 1,
+        "internalName": "FullHDFilmizlesene",
+        "description": "Sinema zevkini evinize kadar getirdik. T\u00fcrkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+        "url": "https://raw.githubusercontent.com/ixelizm/TestPlugins/builds/FullHDFilmizlesene.cs3",
+        "name": "FullHDFilmizlesene"
     }
 ]
